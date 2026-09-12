@@ -1,0 +1,24 @@
+{
+  "trilhas": [
+    {
+      "id": 1,
+      "tecnologia": "Python",
+      "nivel": "Iniciante",
+      "modulos": [
+        "Introdução ao Python",
+        "Estruturas de Dados",
+        "Funções e Módulos"
+      ]
+    },
+    {
+      "id": 2,
+      "tecnologia": "JavaScript",
+      "nivel": "Iniciante",
+      "modulos": [
+        "Introdução ao JavaScript",
+        "Manipulação do DOM",
+        "Funções e Eventos"
+      ]
+    }
+  ]
+}
